@@ -3,7 +3,7 @@
 
 ## Disclaimer
    I do not in any way, shape, or form declare that all of this work is completely mine.
-   I have used online resources, snippets from other people’s code, and the help of AI to make this SPA working.
+   I have used online resources, snippets from other people’s code, and the help of AI to get this SPA working.
 
 
 ## This is a single page application for a branch manager to manage loan applications.
